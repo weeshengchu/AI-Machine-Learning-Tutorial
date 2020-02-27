@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="349ace2e-1abc-43c5-8d0b-c3218230bb8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YISE0cjK47qcqECmSr6TswNjpw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SVM/Support Vector Machines.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\weesh\Projects\Machine Learning Tutorials\KNN" />
+      <recent name="C:\Users\weesh\Projects\Machine Learning Tutorials\Linear Regression" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="tensorEnv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\weesh\.conda\envs\tensor\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="tensorEnv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\weesh\.conda\envs\tensor\pythonw.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/Support Vector Machines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="349ace2e-1abc-43c5-8d0b-c3218230bb8e" name="Default Changelist" comment="" />
+      <created>1582628500065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582628500065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1593" y="175" key="#Notifications" timestamp="1582630710164">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1593" y="175" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582630710164" />
+    <state x="-1731" y="172" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582719686153">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1731" y="172" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582719686153" />
+    <state x="-1406" y="271" key="FileChooserDialogImpl" timestamp="1582719684633">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1406" y="271" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582719684633" />
+    <state width="1362" height="206" key="GridCell.Tab.0.bottom" timestamp="1582755106346">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582755106346" />
+    <state width="1362" height="206" key="GridCell.Tab.0.center" timestamp="1582755106346">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582755106346" />
+    <state width="1362" height="206" key="GridCell.Tab.0.left" timestamp="1582755106346">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582755106346" />
+    <state width="1362" height="206" key="GridCell.Tab.0.right" timestamp="1582755106346">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582755106346" />
+    <state x="-1684" y="159" key="SettingsEditor" timestamp="1582631064054">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1684" y="159" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582631064054" />
+    <state x="-1259" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582716619758">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1259" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582716619758" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582628670771" />
+    <state x="-1545" y="341" width="737" height="661" key="find.popup" timestamp="1582634296169">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1545" y="341" width="737" height="661" key="find.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582634296169" />
+  </component>
+</project>
