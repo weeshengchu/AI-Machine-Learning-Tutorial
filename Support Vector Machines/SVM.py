@@ -22,7 +22,7 @@ classes = ['malignant' 'benign']
 # 1.9 Using SVC to train
 # clf = svm.SVC()
 
-# gives a better acc by adding in 'rbf' -> linear, poly, ... C=1 -> soft margin
+# 1.9 gives a better acc by adding in 'rbf' -> linear, poly, ... C=1 -> soft margin
 # clf = svm.SVC(kernel="linear", C=2)
 
 clf = KNeighborsClassifier(n_neighbors=3)
@@ -32,3 +32,4 @@ y_pred = clf.predict(x_test)
 
 acc = metrics.accuracy_score(y_test, y_pred)
 print(acc)
+# 0.9385964912280702
